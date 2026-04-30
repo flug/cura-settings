@@ -56,7 +56,7 @@
                 },
                 "description": "Adds a new Klipper Settings category with a number of Klipper-specific settings and features to the Cura settings list. All features are designed to work without the need for additional Klipper translation macros. Multiple extruders are supported.\n\nCompatible only with Klipper firmware.",
                 "display_name": "Klipper Settings",
-                "is_active": true,
+                "is_active": false,
                 "is_bundled": false,
                 "is_installed": true,
                 "package_id": "KlipperSettingsPlugin",
